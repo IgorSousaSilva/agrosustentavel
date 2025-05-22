@@ -181,6 +181,8 @@ body {
 .contato .info-contato p {
   text-shadow: 2px 2px 10px black;
   padding: 3px;
+  font-size: 0.9rem;
+  
 }
 
 .contato .info-contato {
