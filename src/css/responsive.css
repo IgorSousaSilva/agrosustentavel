@@ -108,6 +108,20 @@
 }
 
 @media(max-width: 410px) {
+
+
+     
+    header .logo { 
+    
+    
+        margin-left: 135px;
+       
+        font-size: 0.6rem;
+        
+        
+       
+        
+    }
     .contato .info-contato p {
  
   
