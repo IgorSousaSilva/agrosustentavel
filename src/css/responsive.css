@@ -107,11 +107,11 @@
     }
 }
 
-@media(max-width: 300px) {
+@media(max-width: 410px) {
     .contato .info-contato p {
  
-  padding: 1px;
-  font-size: 0.7rem;
+  
+  font-size: 15px;
   
   
 }
