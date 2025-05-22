@@ -64,7 +64,7 @@
     
         margin-left: 150px;
        
-        font-size: 0.8rem;
+        font-size: 0.7rem;
         
         
        
@@ -101,8 +101,20 @@
 
     .produtos .container .item {
     
-        
+        padding: 10px;
        font-size: 1.2rem;
     
     }
 }
+
+@media(max-width: 410px) {
+    .contato .info-contato p {
+ 
+  
+  font-size: 15px;
+  
+  
+}
+}
+
+

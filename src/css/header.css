@@ -154,3 +154,17 @@ header input:checked ~ label .hamburguer:after {
         display: block;
     }
 }
+
+@media(max-width: 400px) {
+  
+
+    header nav {
+       
+        right: -70px;  
+       
+    }
+
+
+   
+}
+
