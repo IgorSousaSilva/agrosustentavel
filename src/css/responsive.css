@@ -107,4 +107,14 @@
     }
 }
 
+@media(max-width: 300px) {
+    .contato .info-contato p {
+ 
+  padding: 1px;
+  font-size: 0.7rem;
+  
+  
+}
+}
+
 
