@@ -160,7 +160,7 @@ header input:checked ~ label .hamburguer:after {
 
     header nav {
        
-        right: 1px;  
+        right: -20px;  
        
     }
 
