@@ -153,7 +153,6 @@ header input:checked ~ label .hamburguer:after {
         padding: 20px;
         display: block;
     }
-<<<<<<< HEAD
 }
 
 @media(max-width: 400px) {
@@ -161,7 +160,7 @@ header input:checked ~ label .hamburguer:after {
 
     header nav {
        
-        right: -70px;  
+        right: 1px;  
        
     }
 
@@ -169,55 +168,3 @@ header input:checked ~ label .hamburguer:after {
    
 }
 
-=======
-
-    .contato .info-contato p {
-   font-size: 0.rem;
-  
-}
-}
-
-
-@media(max-width: 400px) {
-    header .menu {
-        display: block; 
-    }
-
-    /* pega todos os itens que após o input e que sao irmaos dele */
-    header nav input:checked ~ ul {
-        display: block;
-    }
-
-    header nav {
-        position: absolute;
-        top: 30px;
-        right: -40px;  
-        z-index: 1;
-    }
-
-   header nav ul {
-        display: none;        
-        background-color: var(--cor-fundo-escuro);         
-        padding: 20px;       
-    }
-    
-    header nav li a {
-        color: var(--cor-branca);
-        text-align: center;                
-        padding: 20px;
-        display: block;
-    }
-}
-
-@media(max-width: 400px) {
-   
-    header nav {
-      
-        right: -70px;  
-        
-    }
-
-   
-    
-}
->>>>>>> 87ac3204b9e8e832e6a19297b09fe1d9aaf24eb8
